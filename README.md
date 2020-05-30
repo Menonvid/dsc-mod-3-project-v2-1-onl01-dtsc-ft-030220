@@ -1,6 +1,6 @@
 
 # Module 3 Project - Tanzanian Water Wells
-
+![](/data/Tanzania_well.png)
 
 ## Introduction
 
@@ -17,6 +17,8 @@ Q3. What is the best mode of payment for maintainence of wells?
 Q4. Does having Public Meetings help to keep the wells functional?
 
 ## Findings
+
+![](/data/functional.png)
 
 ## Final Project Summary
 
