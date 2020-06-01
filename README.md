@@ -10,7 +10,7 @@ Through this analysis we are going to answer some of the questions as below:
 
 Q1. Does source of water have an effect on the functionality of the wells?
 
-Q2. Does Age of the wells effect the condition of the wells?
+Q2. Does Age effect the condition of the wells?
 
 Q3. What is the best mode of payment for maintainence of wells?
 
@@ -18,7 +18,17 @@ Q4. Does having Public Meetings help to keep the wells functional?
 
 ## Findings
 
-![](/data/functional.png)
+![](/data/status.png)
+
+![](/data/Source.png)
+
+![](/data/Age.png)
+
+![](/data/payment.png)
+
 
 ## Final Project Summary
+![](/data/Model.png)
 
+## Future Work
+Need to examine the missing values or Zero values of Population and gps. Also, try binning the highly cardinal columns. Most static head values were 0. Need to examine those too.
